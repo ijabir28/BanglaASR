@@ -29,3 +29,5 @@ To evaluate the trained model on the test set:
 ```
 python test.py model.model_path=models/deepspeech.pth test_path=bangla_asr_test_manifest.json
 ```
+
+Dataset Credit: OpenSLR (https://www.openslr.org/53)
